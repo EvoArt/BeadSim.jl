@@ -1,0 +1,13 @@
+name = "BeadSim"
+uuid = "3b54286d-25ff-4b94-84b4-9faed655f018"
+authors = ["Arthur <arn203@exeter.ac.uk>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
